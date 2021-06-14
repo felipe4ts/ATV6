@@ -9,3 +9,10 @@ git add .
 git commit -m "commit 1"
 
 ```
+
+### COMMIT 2
+```
+git add .
+git commit -m "commit 2"
+
+```
