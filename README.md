@@ -70,3 +70,5 @@ git add .
 git commit -m "commit 5"
 
 ```
+
+(https://git-scm.com/docs/git-add)
