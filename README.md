@@ -70,3 +70,16 @@ git add .
 git commit -m "commit 5"
 
 ```
+
+## PUSH DA COMMIT 5 NA ORIGIN TEMP
+```
+git push origin temp
+
+```
+
+## MERGE DAS BRANCHES TEMP E DEV
+```
+git checkout dev
+git merge temp
+
+```
