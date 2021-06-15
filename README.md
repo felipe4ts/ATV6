@@ -50,3 +50,23 @@ git add .
 git commit -m "commit 4"
 
 ```
+
+## PUSH DA COMMIT 4 NA ORIGIN DEV
+```
+git push origin dev
+
+```
+
+### CRIAR A BRANCH TEMP
+```
+git branch temp
+git checkout temp
+
+```
+
+### COMMIT 5
+```
+git add .
+git commit -m "commit 5"
+
+```
