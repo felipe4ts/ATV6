@@ -96,3 +96,10 @@ git add .
 git commit -m "commit 6"
 
 ```
+
+## MERGE DAS BRANCHES DEV E MAIN
+```
+git checkout main
+git merge dev
+
+```
