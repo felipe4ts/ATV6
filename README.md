@@ -83,3 +83,16 @@ git checkout dev
 git merge temp
 
 ```
+
+## PUSH NA ORIGIN DEV
+```
+git push origin dev
+
+```
+
+### COMMIT 6
+```
+git add .
+git commit -m "commit 6"
+
+```
